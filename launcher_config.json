@@ -24,6 +24,6 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 		}
 	],
 	"clientFolder": "Tibia",
-	"newClientUrl" : "https://github.com/rsaggio/tibia13-client-hefesto/releases/download/v1.0.1/tibia-client-13.21.13839.zip",
+	"newClientUrl" : "https://github.com/rsaggio/tibia13-client-hefesto/releases/download/v1.0.1/hefesto-client.zip",
 	"clientExecutable": "client.exe"
 }
